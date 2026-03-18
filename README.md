@@ -238,6 +238,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - A MCP server that supports searching for Bilibili content. Provides LangChain integration examples and test scripts.
+- [anybrowse](https://github.com/kc23go/anybrowse) - Web scraping MCP server. Converts URLs to LLM-ready Markdown using real Chrome. 10 free calls/day, no signup.
 - [agent-infra/mcp-server-browser](https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser) 📇 🏠 - Browser automation capabilities using Puppeteer, both support local and remote browser connection.
 - [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - An MCP server for browser automation using Playwright
 - [BB-fat/browser-use-rs](https://github.com/BB-fat/browser-use-rs) 🦀 Lightweight browser automation MCP server in Rust with zero dependencies.
